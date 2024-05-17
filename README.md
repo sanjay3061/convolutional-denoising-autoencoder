@@ -132,6 +132,8 @@ decoded = layers.Conv2D(1, (3, 3), activation='sigmoid', padding='same')(x)
 autoencoder = keras.Model(input_img, decoded)
 ```
 ```py
+print("Name:Sanjay.R")
+print("Reg.no:212222220038")
 autoencoder.summary()
 ```
 
