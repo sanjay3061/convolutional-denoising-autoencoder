@@ -43,6 +43,13 @@ To develop a convolutional autoencoder for image denoising application.
 - **Step 5:** Pass test data for validating manually.
 - **Step 6:** Plot the predictions for visualization.
 
+
+
+
+
+
+
+
 ## PROGRAM
 
 
@@ -194,6 +201,7 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![image](https://github.com/sanjay3061/convolutional-denoising-autoencoder/assets/121215929/281b5edb-7fd0-47a9-9ae1-e0d170c48cc6)
 
 
 
