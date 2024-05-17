@@ -139,6 +139,8 @@ autoencoder.summary()
 
 #### Model Summary
 
+![image](https://github.com/sanjay3061/convolutional-denoising-autoencoder/assets/121215929/46a7db92-00a6-4ae1-bcee-1d6d7d85aae5)
+
 
 
 
