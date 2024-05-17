@@ -47,7 +47,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 
 ```py
-print("NAME :Sanjay.r")
+print("NAME :Sanjay.R")
 print("212222220038")
 import pandas as pd
 import numpy as np
@@ -100,7 +100,8 @@ plt.show()
 
 #### Noicy Image 
 
-![image](https://github.com/PSriVarshan/convolutional-denoising-autoencoder/assets/114944059/d5675836-17b9-421a-abeb-16f791390f6e)
+![image](https://github.com/sanjay3061/convolutional-denoising-autoencoder/assets/121215929/cac69730-7bef-430f-9fb8-673932ae086a)
+
 
 
 ```py
@@ -136,7 +137,7 @@ autoencoder.summary()
 
 #### Model Summary
 
-![alt text](image-3.png)
+
 
 
 ```py
@@ -189,12 +190,13 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![alt text](image-1.png)
+
 
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![alt text](image-2.png)
+![image](https://github.com/sanjay3061/convolutional-denoising-autoencoder/assets/121215929/88a35318-ced1-430f-8c22-0a37301d71e3)
+
 
 
 ## RESULT
